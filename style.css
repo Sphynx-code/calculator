@@ -10,11 +10,11 @@ body{
   font-family: Arial, sans-serif;
   background-color: hsl(0, 0%, 15%);
   border-radius: 15px;
-width: 75vw; 
+width: 77vw; 
   overflow: hidden;
 }
 #display {
- width:75vw;
+ width:77vw;
   padding: 20px;
   font-size: 1.7rem;
   text-align: left;
@@ -34,8 +34,8 @@ width: 75vw;
 }
 
 button {
-  width:8vw;
-  height: 6vh;
+  width:11vw;
+  height: 7vh;
   border-radius: 15px;
   border: none;
   background-color: hsl(0, 0%, 30%);
