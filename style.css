@@ -40,7 +40,7 @@ button {
   border: none;
   background-color: hsl(0, 0%, 30%);
   color: white;
-  font-size:1.2rem;
+  font-size:0.8rem;
   font-weight: bold;
   cursor: pointer;
 }
@@ -60,5 +60,8 @@ button:active{
   #display{
       width:40vw ;
       font-size: 3rem;
+  }
+  button{
+    font-size: 1.2rem;
   }
 }
